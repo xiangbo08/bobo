@@ -1,0 +1,1 @@
+mongod --logpath D:\Develop\MongoDB\Server\3.4\logs\mongo.log --logappend --dbpath D:\Develop\MongoDB\Server\3.4\data\db --port 27017 --serviceName  "MongoDB" --serviceDisplayName "MongoDB" --install
